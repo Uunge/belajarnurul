@@ -8,8 +8,7 @@ class MyStatelessWidget extends StatelessWidget {
         title: Text('Belajar Flutter'),
         backgroundColor: Colors.teal,
       ),
-      body: Container(
-        
-      ),
+      body: Container(),
     );
   }
+}
